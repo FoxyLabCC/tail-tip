@@ -12,6 +12,7 @@ There are 3 channels in TailTip: ch1, ch2, rld. With 2.5mm TRS connector, defini
 | Ch1 | GND | - | + |
 | Ch2 | GND | - | + |
 | Rld | GND | / | + |
+
 TS(same as coyote3.0) is not compatible since the GND and in- will be shorted and it dont contains a GND shield. But you may use two TS lines, two electrode both connect to Tip/IN+ and do "CH=Ch1-Ch2" through it's not offically support. 
 The rld electrode significantly increase signal quality, so its strongly recommand.
 One Chx is used as main collection with two electrode located as perineum, and the other is optional for auxiliary.
